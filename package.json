@@ -24,7 +24,7 @@
     "discord-blackjack",
     "discord.js-blackjack"
   ],
-  "author": "Ashish Emmanuel",
+  "author": "BrennanSauce",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^13.6.0",
